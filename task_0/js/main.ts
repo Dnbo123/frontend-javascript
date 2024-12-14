@@ -41,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         firstNameCell.textContent = student.firstName;
     });
     
+    
 
     document.body.appendChild(table);
 
